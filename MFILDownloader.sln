@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MFILDownloader", "MFILDownloader\MFILDownloader.csproj", "{8DF6C37D-EB06-4878-B9D7-8FDAD564581E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8B6481C8-3B04-4B72-98EA-54DEF3400818}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF6C37D-EB06-4878-B9D7-8FDAD564581E}.Debug|x64.ActiveCfg = Debug|x64
+		{8DF6C37D-EB06-4878-B9D7-8FDAD564581E}.Debug|x64.Build.0 = Debug|x64
+		{8DF6C37D-EB06-4878-B9D7-8FDAD564581E}.Release|x64.ActiveCfg = Release|x64
+		{8DF6C37D-EB06-4878-B9D7-8FDAD564581E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE6A1BD-8F1F-442F-9AC3-54CC44228F6C}
+	EndGlobalSection
+EndGlobal
