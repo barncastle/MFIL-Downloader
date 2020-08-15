@@ -6,3 +6,4 @@ Additionally includes: optional repacking of chunked (streamed) MPQs and install
 
 Requires x64 Windows and .Net Core 2.2.
 
+To use, execute `dotnet MfilDownloader.dll` and then follow the wizard.
